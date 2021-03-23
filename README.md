@@ -14,5 +14,10 @@ Sisteme Generic IEntityRepository altyapısı yazıldı.<br/>
 Car, Brand ve Color nesneleri için Entity Framework altyapısı yazıldı.<br/>
 GetCarsByBrandId , GetCarsByColorId servisleri yazıldı.
 
+## Ödev 9
+Core katmanı oluşturuldu.<br/>
+IEntity, IDto, IEntityRepository, EfEntityRepositoryBase dosyaları eklendi.<br/>
+Car, Brand, Color sınıflarınız için tüm CRUD operasyonlarını hazır hale getirildi.<br/>
+Console'da Tüm CRUD operasyonlarınızı Car, Brand, Model nesneleriniz için test edildi. GetAll, GetById, Insert, Update, Delete.
 
 
