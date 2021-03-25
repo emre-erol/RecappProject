@@ -20,4 +20,8 @@ IEntity, IDto, IEntityRepository, EfEntityRepositoryBase dosyaları eklendi.<br/
 Car, Brand, Color sınıflarınız için tüm CRUD operasyonlarını hazır hale getirildi.<br/>
 Console'da Tüm CRUD operasyonlarınızı Car, Brand, Model nesneleriniz için test edildi. GetAll, GetById, Insert, Update, Delete.
 
+## Ödev 10
+Core katmanında Results yapılandırması yapıldı.<br/>
+İyileştirmeler yapıldı.
+
 
